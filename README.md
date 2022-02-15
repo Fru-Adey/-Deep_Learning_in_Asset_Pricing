@@ -9,7 +9,7 @@ This repository contains empirical results in [paper](https://papers.ssrn.com/so
 - [Related Resources](#related-resources)
 - [Author](#author)
 
-----------------------------------------------------------
+----------------------------------------------------------------
 
 ### Empirical Results
 
